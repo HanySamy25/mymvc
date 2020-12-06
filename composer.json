@@ -1,0 +1,11 @@
+{
+    "name": "root/phpmvc-era",
+    "autoload":{
+        "psr-4":{
+            "CRUDMVC\\":"app"
+        }
+    },
+    "require": {
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}

@@ -1,0 +1,73 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/phpmvc-era
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Models/EmployeeModel.php
+> git ls-files --stage -- /opt/lampp/htdocs/phpmvc-era/app/Models/EmployeeModel.php
+> git cat-file -s eaba7807ab8cd47cd71ff6798c4c9de1fb6ed724
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Config/config.php
+> git ls-files --stage -- /opt/lampp/htdocs/phpmvc-era/app/Config/config.php
+> git cat-file -s 0ece5a6f850ff3004b7603b913ef9d45d23bd31e
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Core/DB.php
+> git ls-files --stage -- /opt/lampp/htdocs/phpmvc-era/app/Core/DB.php
+> git cat-file -s 71a2439c586d627f2e72b2d73f3107069aa09dd0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /opt/lampp/htdocs/phpmvc-era/app/Core/DB.php
+> git symbolic-ref --short HEAD
+> git cat-file -s 71a2439c586d627f2e72b2d73f3107069aa09dd0
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :app/Core/DB.php
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /opt/lampp/htdocs/phpmvc-era/app/Core/DB.php
+> git cat-file -s 71a2439c586d627f2e72b2d73f3107069aa09dd0
+> git show --textconv :app/Core/DB.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

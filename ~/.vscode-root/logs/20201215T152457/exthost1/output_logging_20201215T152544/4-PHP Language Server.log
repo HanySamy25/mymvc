@@ -1,0 +1,73 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 3:25:45 PM] 31 files total
+[Info  - 3:25:45 PM] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/phpmvc-era/public/index.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_static.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_files.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Models/EmployeeModel.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Config/config.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/App.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/Helper.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/DB.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/Views.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Controllers/HomeController.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/Home.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/Employeeview.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/inc/footer.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/inc/header.php
+[Info  - 3:25:45 PM] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/phpmvc-era/public/index.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_static.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_files.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Models/EmployeeModel.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Config/config.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/App.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/Helper.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/DB.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Core/Views.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Controllers/HomeController.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/Home.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/Employeeview.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/inc/footer.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/app/Views/inc/header.php
+[Info  - 3:25:46 PM] 1 Packages
+[Info  - 3:25:46 PM] Indexing thingengineer/mysqli-database-class for definitions and static references
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/dbObject.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/dataimport/test.import.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/dbObjectTests.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/mysqliDbTests.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/models/product.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/models/user.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/MysqliDb.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/index.php
+[Info  - 3:25:47 PM] Indexing thingengineer/mysqli-database-class for dynamic references
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/dbObject.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/dataimport/test.import.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/dbObjectTests.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/mysqliDbTests.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/models/product.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/tests/models/user.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/MysqliDb.php
+Parsing file:///opt/lampp/htdocs/phpmvc-era/vendor/thingengineer/mysqli-database-class/index.php
+[Warn  - 3:25:48 PM] Could not compute cache key for thingengineer/mysqli-database-class
+[Info  - 3:25:48 PM] All 31 PHP files parsed in 2 seconds. 164 MiB allocated.

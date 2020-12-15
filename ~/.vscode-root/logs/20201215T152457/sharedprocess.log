@@ -1,0 +1,3 @@
+[2020-12-15 15:25:01.773] [sharedprocess] [info] main {"machineId":"4febfd2cddb2e27d33dbfe5061c7a47dff0fdfa70e17cb49bd06a8c8438ea151","windowId":2}
+[2020-12-15 15:25:01.978] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/phpmvc-era/~/.vscode-root/User/snippets'
+[2020-12-15 15:25:41.823] [sharedprocess] [info] Starting to clean up unused language packs.

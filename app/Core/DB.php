@@ -7,7 +7,7 @@ class DB{
 
 
     function Connection(){
-        $db = new MysqliDb ('localhost', 'root', 'HSpc@951', 'intaldb');
+        $db = new MysqliDb ('localhost', 'root', '', '');
 
         if($db){
             return $db;
